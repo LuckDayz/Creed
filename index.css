@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-links a {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.container h1 {
+    font-size: 50px;
+    font-style: italic;
+    color: #ffffff;
+}
+
+.container p {
+    font-weight: 600;
+    
+}
+
+/* main {
+    background-image: url(/img/cat-loop.jpg);
+    background-size: cover;
+    height: 800px;
+}
+
+main .d-flex {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: cursive;
+}
+
+.pic-part {
+    background-image: url(/img/catt-1.jpg);
+    width: cover;
+    height: 900px;
+}
+
+.main .card {
+    margin: 100px;
+} */
+
+.card-group {
+    gap: 100px;
+    margin-left: 400px;
+}
+
+.card-group p{
+    font-weight: 700;
+    
+}
+
+.text-white h1{
+    color: #000000;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.card div {
+    border-left: 1px solid aliceblue;
+}
+
+.card ul li {
+    list-style-type: none;
+}
+
+.d-flex p {
+    font-weight: 500;
+    font-family: monospace;
+}
+
+main {
+    background-color: rgb(80, 139, 80);
+    width: cover;
+    height: 400px;
+}
+
+
+/* rabbit more part */
+.card-body h4 {
+    width: cover;
+    height: 60px;
+
+}
