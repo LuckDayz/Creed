@@ -1,6 +1,6 @@
-# _{Animals Shelter}_
+# _Animals Shelter_
 
-#### By _**{Dayz Emir}**_
+#### By _**Dayz Emir**_
 
 ## Technologies Used
 
